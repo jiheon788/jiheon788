@@ -40,6 +40,6 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheon788&langs_count=10&layout=compact&theme=dark)](https://github.com/jiheon788/jiheon788)
+
 
 
