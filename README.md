@@ -1,5 +1,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:697BFF,100:BBB7EF&height=200&section=header&text=Hi!&fontSize=40&fontColor=ea4c88&fontAlignY=20) -->
 
+
+
+# Hello, My name is Ji-Heon Park😈
+I'm a web front-end developer, and I also like to do web design myself.👨🏻‍💻
+
+I can do some back-end development, DA, ML, and AI.🤏🏻
+
+My portfolio is here. [🔗 Click Me!](https://www.notion.so/jiheon788-70975611259444c6a95c8337be8efc18)
+
+
 <div align='center'>
 <h2>My Stacks</h2>
 </div>
