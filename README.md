@@ -2,7 +2,7 @@
 
 
 
-# Hello, My name is Ji-Heon Park😈
+# Hello, My name is Ji-Heon Park👀
 I'm a web front-end developer, and I also like to do web design myself.👨🏻‍💻
 
 I can do some back-end development, DA, ML, and AI.🤏🏻
