@@ -7,7 +7,7 @@ I'm a web front-end developer, and I also like to do web design myself.✨
 
 I can do some back-end development, DA, ML, and AI. 🤏🏻
 
-My portfolio is here. [🔗 Click Me!](https://www.notion.so/jiheon788-70975611259444c6a95c8337be8efc18)
+My Notion portfolio is here. [🔗 Click Me!](https://www.notion.so/jiheon788-70975611259444c6a95c8337be8efc18)
 
 
 <div align='center'>
