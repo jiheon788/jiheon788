@@ -14,14 +14,14 @@ My Notion portfolio is here. [🔗 Click Me!](https://www.notion.so/jiheon788-70
 
 
 
-<div align='center'>
+
 <h2>My Stats</h2>
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=tokyonight)
-</div>
 
 
-<div align='center'>
+
+<div align=''>
  <h2>My Stacks</h2>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -31,10 +31,6 @@ My Notion portfolio is here. [🔗 Click Me!](https://www.notion.so/jiheon788-70
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-</div>
-
-<div align='center'>
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white">
@@ -46,7 +42,6 @@ My Notion portfolio is here. [🔗 Click Me!](https://www.notion.so/jiheon788-70
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white">
 <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white">
- 
  </br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -55,10 +50,6 @@ My Notion portfolio is here. [🔗 Click Me!](https://www.notion.so/jiheon788-70
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
  </br>
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
- </div>
- 
- <div align='center'>
-
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
 </div>
