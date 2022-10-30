@@ -3,11 +3,8 @@
 
 
 # Hello, My name is Ji-Heon Park 👀
-I'm a web front-end developer, and I also like to do web design myself.✨ 
-
-I can do some back-end development, DA, ML, and AI. 🤏🏻
-
-My Notion portfolio is here. [🔗 Click Me!](https://www.notion.so/jiheon788-70975611259444c6a95c8337be8efc18)
+안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
+[🔗 포트폴리오](https://www.notion.so/jiheon788-70975611259444c6a95c8337be8efc18)
 
 
 
