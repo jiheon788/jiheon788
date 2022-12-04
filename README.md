@@ -12,7 +12,6 @@
 
 
 
-<h2>My Stats</h2>
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=tokyonight)
 
