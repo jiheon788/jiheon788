@@ -4,7 +4,7 @@
 
 # Hello, My name is Ji-Heon Park 👀
 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
-[🔗 포트폴리오](https://www.notion.so/jiheon788-70975611259444c6a95c8337be8efc18)
+[🔗 포트폴리오](https://rhetorical-hook-0cd.notion.site/jiheon788-70975611259444c6a95c8337be8efc18)
 
 
 
