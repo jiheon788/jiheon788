@@ -1,7 +1,7 @@
 <div align='center'>
 
 
-![header](https://capsule-render.vercel.app/api?type=slice&text=Ji%Heon%Park!&fontSize=60&height=200)
+![header](https://capsule-render.vercel.app/api?type=shark&text=Ji%Heon%Park!&fontSize=60&height=200)
 
 
 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
