@@ -1,7 +1,7 @@
 <div align='center'>
 
 
-![header](https://capsule-render.vercel.app/api?type=shark&text=Ji%Heon%Park!&fontSize=30&height=150&fontAlignY=20&color=timeGradient)
+ <img src="https://capsule-render.vercel.app/api?type=shark&text=Ji%Heon%Park!&fontSize=30&height=100&fontAlignY=20&color=timeGradient" width="100%"/>
 
 
 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
@@ -55,8 +55,12 @@
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+
+ </br>
+ </br>
 </div>
 
-
 <!-- https://simpleicons.org/ -->
+
+ <img src="https://capsule-render.vercel.app/api?type=shark&section=footer&height=100&fontAlignY=20&color=timeGradient" width="100%"/>
 
