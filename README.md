@@ -1,9 +1,12 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=transparent&color=0:697BFF,100:BBB7EF&height=200&section=header&text=Hi!&fontSize=40&fontColor=ea4c88&fontAlignY=20) -->
+<div align='center'>
 
 
+![header](https://capsule-render.vercel.app/api?type=slice&text=Ji%Heon%Park!&fontSize=60&height=200)
 
-# Hello, My name is Ji-Heon Park 👀
+
 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
+ </br>
+ 
 [🔗 포트폴리오](https://rhetorical-hook-0cd.notion.site/jiheon788-70975611259444c6a95c8337be8efc18)
 
 
@@ -11,15 +14,15 @@
 
 
 
+ </br>
 
 
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=tokyonight)
+ </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheon788&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheon788) -->
 
-<div align=''>
  <h2>My Stacks</h2>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
@@ -30,16 +33,18 @@
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
-<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=Chart.js&logoColor=white">
  </br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
+ </br>
+
 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
 <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=Nodemon&logoColor=white">
 <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=PM2&logoColor=white">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white">
+
  </br>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=NumPy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
