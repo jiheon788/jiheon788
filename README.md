@@ -1,11 +1,8 @@
 
-안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
- </br>
-[🔗 포트폴리오](https://rhetorical-hook-0cd.notion.site/jiheon788-70975611259444c6a95c8337be8efc18)
- </br>
- 
+안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.  
+
 <a href="https://rhetorical-hook-0cd.notion.site/jiheon788-70975611259444c6a95c8337be8efc18">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
 </a>
 <br>
 <img src="https://img.shields.io/badge/Gmail_:_jiheon788@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
