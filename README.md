@@ -1,9 +1,9 @@
 
 <div align="center">
   
-# 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다. 👀
+# 👋🏻 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
 
-<h2>About Me</h2>
+<h2> 🙆🏻‍♂️ About Me</h2>
 
 <a href="https://rhetorical-hook-0cd.notion.site/jiheon788-70975611259444c6a95c8337be8efc18">
   <img src="https://img.shields.io/badge/Notion Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
@@ -13,7 +13,7 @@
 
 
 
- <h2>My Stacks</h2>
+ <h2>📚 My Stacks</h2>
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
@@ -41,7 +41,7 @@
  </br>
  </br>
  
- <h2>My Stats</h2>
+ <h2>👨🏻‍💻 My Stats</h2>
  
  <div>
   
