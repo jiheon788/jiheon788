@@ -1,4 +1,6 @@
 
+<div align="center">
+  
 # 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다. 👀
 
 <h2>About Me</h2>
@@ -39,13 +41,16 @@
  </br>
  </br>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheon788&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+ <h2>My Stats</h2>
  
- 
+ <div>
+  
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=tokyonight)
- 
- </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheon788&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+</div>
 
 <!-- https://simpleicons.org/ -->
 
-
+</div>
