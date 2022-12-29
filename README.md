@@ -3,6 +3,7 @@
   
 # 👋🏻 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
 
+<!-- 
 <h2> 🙆🏻‍♂️ About Me</h2>
 
 <a href="https://rhetorical-hook-0cd.notion.site/jiheon788-70975611259444c6a95c8337be8efc18">
@@ -22,7 +23,6 @@
  </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> -->
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
  </br>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
@@ -41,7 +41,9 @@
  </br>
  </br>
  
- <h2>👨🏻‍💻 My Stats</h2>
+ <h2>👨🏻‍💻 My Stats</h2> 
+ 
+ -->
  
  <div>
   
