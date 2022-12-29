@@ -48,7 +48,7 @@
  <div>
   
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheon788&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheon788&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
   
   
 </div>
