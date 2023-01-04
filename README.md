@@ -3,56 +3,31 @@
   
 # 👋🏻 안녕하세요! 프론트엔드 개발 공부중인 박지헌입니다.
 
-<!-- 
-<h2> 🙆🏻‍♂️ About Me</h2>
 
-<a href="https://rhetorical-hook-0cd.notion.site/jiheon788-70975611259444c6a95c8337be8efc18">
-  <img src="https://img.shields.io/badge/Notion Portfolio-000000?style=for-the-badge&logo=Notion&logoColor=white"/>
-</a>
+
+
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+    </a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=jiheon788&hide_border=true&theme=black-ice" alt="" />
+    </a>
+</div>
+
+<br><br><br><br><br><br><br><br>
+
+
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=jiheon788&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <br>
-<img src="https://img.shields.io/badge/Gmail_:_jiheon788@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
+<div align="center"> 
 
+<br>
 
- <h2>📚 My Stacks</h2>
-
-<div>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white">
- </br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white">
- </br>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white">
- </br>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white">
- </br>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
-</div>
-
- </br>
- </br>
- 
- <h2>👨🏻‍💻 My Stats</h2> 
- 
- -->
- 
- <div>
-  
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=tokyonight)
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jiheon788&hide=jupyter%20notebook&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
-  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheon788%2Fhit-counter&count_bg=%5bcdec&title_bg=%23000000&icon=&icon_color=%232B2929&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 </div>
-
-<!-- https://simpleicons.org/ -->
-
-</div>
+  
