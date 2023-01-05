@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-111111?style=flat-square&logo=R&logoColor=white"/>
 </div>
+<br>
 
 <div>
 <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=React&logoColor=white"/>
@@ -39,6 +40,7 @@
 <img src="https://img.shields.io/badge/Jquery-111111?style=flat-square&logo=Jquery&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/Webpack-111111?style=flat-square&logo=Webpack&logoColor=white"/> -->
 </div>
+<br>
   
 <div>
 <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=Express&logoColor=white"/>
@@ -47,6 +49,7 @@
 <img src="https://img.shields.io/badge/Flask-111111?style=flat-square&logo=Flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
+<br>
 
 <div>
 <img src="https://img.shields.io/badge/Netlify-111111?style=flat-square&logo=Netlify&logoColor=white"/>
