@@ -20,7 +20,7 @@
 
 - 🌱 Currently studying TypeScript and React Query
 
-- 📚 Papers/books I'm reading <TypeScript Programming> 
+- 📚 Papers/books I'm reading 《Typescript programming》
 
 ---
 
