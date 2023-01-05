@@ -63,11 +63,11 @@
 
 ### Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiheon788&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiheon788&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiheon788&theme=nord_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiheon788&theme=nord_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiheon788&theme=nord_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiheon788&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiheon788&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiheon788&theme=github_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiheon788&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiheon788&theme=github_dark)
 
 
 
