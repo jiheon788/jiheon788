@@ -10,7 +10,7 @@
 
 - 👨‍💻  I'm [Ji-Heon Park](https://github.com/jiheon788/resume), Front-end Developer
 
-- 🎓 Double major in e-Business, B.A. in Business Administration & in Applied Artificial Intelligence, B.S. in Computing and Informatics, Ajou Univ
+- 🎓 Double major in e-Business & Applied Artificial Intelligence, Ajou Univ
 
 - ✨ I try to implement clean code
 
