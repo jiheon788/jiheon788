@@ -8,17 +8,19 @@
 
 ---
 
-- 👨‍💻  I'm [Ji-Heon Park](https://github.com/jiheon788/resume), Front-end Developer
+- 👋 Hello! I'm [Ji-Heon Park](https://github.com/jiheon788/resume)
 
-- 🎓 Double major in E-business & Applied Artificial Intelligence, Ajou Univ
+- 👨‍💻 A Front-end Developer
 
-- ✨ I try to implement clean code
+- 🎓 Holds a dual degree – B.A. in e-Business & B.S. in Applied Artificial Intelligence at Ajou Univ.
 
-- 👨‍🎨 I`m Interested in good UI/UX design
+- ✨ Prioritizes writing clean, understandable and maintainable code
 
-- 🌱 I`m currently learning Typescript and React Query
+- 👨‍🎨 Interested in GOOD UI/UX design
 
-- 📚 Reading 《Typescript programming》
+- 🌱 Currently studying TypeScript and React Query
+
+- 📚 Papers/books I'm reading <TypeScript Programming> 
 
 ---
 
