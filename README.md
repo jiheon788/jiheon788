@@ -1,9 +1,3 @@
-<div align="center"> 
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheon788%2Fhit-counter&count_bg=%5bcdec&title_bg=%23000000&icon=&icon_color=%232B2929&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  
-</div>
-
 ## Welcome to jiheon788's Github
 
 ---
@@ -20,7 +14,7 @@
 
 - 🌱 Currently studying TypeScript and React Query
 
-- 📚 Papers/books I'm reading 《Typescript programming》
+- 📚 Books I'm reading:《Typescript programming》
 
 ---
 
@@ -71,5 +65,9 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiheon788&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiheon788&theme=github_dark)
 
-
+<div align="center"> 
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheon788%2Fhit-counter&count_bg=%5bcdec&title_bg=%23000000&icon=&icon_color=%232B2929&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+  
+</div>
 
