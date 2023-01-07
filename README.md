@@ -6,7 +6,7 @@
 
 - 👨‍💻 A Front-end Developer
 
-- 🎓 Double majored in B.A. e-Business & B.S. Applied Artificial Intelligence at Ajou Univ.
+- 🎓 Double majored in e-Business & Applied Artificial Intelligence at Ajou Univ.
 
 - ✨ Prioritizes writing clean, understandable and maintainable code
 
