@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-111111?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jquery-111111?style=flat-square&logo=Jquery&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Webpack-111111?style=flat-square&logo=Webpack&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/styled-components-111111?style=flat-square&logo=styled-components&logoColor=white"/>
 </div>
 <br>
   
