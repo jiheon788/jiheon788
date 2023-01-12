@@ -16,7 +16,7 @@
 
 - 📚 Books I'm reading : 《Typescript programming》
 
-<!-- - ✔ Check out my [resume](https://rhetorical-hook-0cd.notion.site/0ec56e61c247434bb94eb57314df4a43)  -->
+- ✔ Check out my [resume](https://rhetorical-hook-0cd.notion.site/Resume-0ec56e61c247434bb94eb57314df4a43) 
 ---
 
 ### Skills
