@@ -16,7 +16,7 @@
 
 - 📚 Books I'm reading : 《Typescript programming》
 
-- ✔ Check out my [resume](https://rhetorical-hook-0cd.notion.site/Resume-0ec56e61c247434bb94eb57314df4a43) 
+- 📝 Check out my [resume](https://rhetorical-hook-0cd.notion.site/Resume-0ec56e61c247434bb94eb57314df4a43) 
 ---
 
 ### Skills
@@ -62,11 +62,21 @@
 
 ### Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jiheon788&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jiheon788&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jiheon788&theme=github_dark&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jiheon788&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jiheon788&theme=github_dark)
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
+    </a>
+    <a href="https://git.io/streak-stats" title="Go to Source">
+      <img align="right" width=385 src="http://github-readme-streak-stats.herokuapp.com?user=jiheon788&hide_border=true&theme=black-ice" alt="" />
+    </a>
+  </div>
+
+<br><br><br><br><br><br><br><br>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiheon788&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<br>
 
 <div align="center"> 
   
