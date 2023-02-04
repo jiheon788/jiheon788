@@ -1,5 +1,10 @@
 ## Welcome to jiheon788's Github
 
+
+[![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
+[![resume](https://img.shields.io/badge/JiHeon's_resume-38c189?style=flat-square&logo=Notion&logoColor=white)](https://jiheon788.notion.site/Frontend-Developer-0ec56e61c247434bb94eb57314df4a43)
+[![resume](https://img.shields.io/badge/JiHeon's_portfolio-3870c1?style=flat-square&logo=Notion)](https://jiheon788.notion.site)
+
 ---
 
 - 👋 Hello! I'm Ji-Heon Park
@@ -13,12 +18,6 @@
 - 👨‍🎨 Interested in GOOD UI/UX design
 
 - 🌱 Currently studying TypeScript and React Query
-
-- 📚 Books I'm reading : 《Typescript programming》
-
-- 📝 Check out my [resume](https://jiheon788.notion.site/Frontend-Developer-0ec56e61c247434bb94eb57314df4a43)
-
-- 🌠 Visit my [portfolio](https://jiheon788.notion.site)
 
 ---
 
