@@ -81,7 +81,7 @@
   
 <!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheon788%2Fhit-counter&count_bg=%5bcdec&title_bg=%23000000&icon=&icon_color=%232B2929&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
   
-  <br><br>
+  <br>
   
  [![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
 [![resume](https://img.shields.io/badge/JiHeon's_resume-38c189?style=flat-square&logo=Notion&logoColor=white)](https://jiheon788.notion.site/Frontend-Developer-0ec56e61c247434bb94eb57314df4a43)
