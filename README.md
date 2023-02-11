@@ -1,4 +1,4 @@
-# Welcome to jiheon788's Github
+## Welcome to jiheon788's Github
 
 ---
 
@@ -16,6 +16,9 @@
 
 - 📚 Books I'm reading : "Typescript programming"
 
+---
+
+### Channels
 
  [![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
 [![resume](https://img.shields.io/badge/JiHeon's_resume-38c189?style=flat-square&logo=Notion&logoColor=white)](https://jiheon788.notion.site/Frontend-Developer-0ec56e61c247434bb94eb57314df4a43)
