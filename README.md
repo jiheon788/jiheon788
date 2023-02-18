@@ -45,6 +45,7 @@
 <img src="https://img.shields.io/badge/Recoil-0088CC?style=flat-square&logo=Recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 </div>
 <br>
   
