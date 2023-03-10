@@ -1,4 +1,4 @@
-# Welcome to jiheon788's Github
+## Welcome to jiheon788's Github
 
 ---
 
@@ -78,10 +78,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiheon788&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br>
-
 ---
-
 
 ### Channels
 
