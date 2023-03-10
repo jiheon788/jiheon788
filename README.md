@@ -1,5 +1,7 @@
 # Welcome to jiheon788's Github
 
+---
+
 - 👋 Hello! I'm Ji-Heon Park
 
 - 👨‍💻 A Front-end Developer
@@ -13,8 +15,6 @@
 - 🌱 Currently studying TypeScript and React Query
 
 - 📚 Books I'm reading : "Typescript programming"
-
-<br>
 
 ---
 
@@ -58,8 +58,6 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/>
 <img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </div>
-
-<br>
   
 ---
 
