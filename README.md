@@ -1,6 +1,4 @@
-## Welcome to jiheon788's Github
-
----
+# Welcome to jiheon788's Github
 
 - 👋 Hello! I'm Ji-Heon Park
 
@@ -16,9 +14,13 @@
 
 - 📚 Books I'm reading : "Typescript programming"
 
+<br>
+
 ---
 
 ### Skills
+
+<br>
 
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -63,6 +65,8 @@
 
 ### Stats
 
+<br>
+
 <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=385 src="https://github-readme-stats.vercel.app/api?username=jiheon788&show_icons=true&theme=dark&hide_border=true&bg_color=151515&icon_color=ffffff&text_color=ffffff&title_color=00e6fe" />
@@ -76,14 +80,14 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiheon788&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
+<br>
 
 ---
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjiheon788%2Fhit-counter&count_bg=%5bcdec&title_bg=%23000000&icon=&icon_color=%232B2929&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
 
 ### Channels
+
+<br>
 
 [![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
 [![resume](https://img.shields.io/badge/JiHeon's_Portfolio-3870c1?style=flat-square&logo=Notion)](https://jiheon788.notion.site)
