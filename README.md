@@ -86,6 +86,6 @@
 
 
 [![portfolio](https://img.shields.io/badge/JiHeon's_Portfolio-222222?style=flat-square&logo=Notion)](https://jiheon788.notion.site)
-[![resume](https://img.shields.io/badge/JiHeon's_Resume-eeeeee?style=flat-square&logo=Notion&logoColor=black)](https://jiheon788.notion.site/Frontend-Developer-5effd017347e44ecbebec9efe159ba09)
+[![resume](https://img.shields.io/badge/JiHeon's_Resume-eeeeee?style=flat-square&logo=Notion&logoColor=black)](https://jiheon788.notion.site/Frontend-Developer-59fa56d52d5746008698b3cd6c9324d1)
 [![velog](https://img.shields.io/badge/JiHeon's_Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@jiheon788)
 [![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
