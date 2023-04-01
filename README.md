@@ -1,6 +1,10 @@
 ## Welcome to jiheon788's Github
 
----
+
+[![portfolio](https://img.shields.io/badge/JiHeon's_Notion-5C9EFF?style=flat&logo=Notion)](https://jiheon788.notion.site)
+[![velog](https://img.shields.io/badge/JiHeon's_Blog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@jiheon788)
+[![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
+
 
 - 👋 Hello! I'm Ji-Heon Park
 
@@ -78,13 +82,5 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiheon788&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
----
-
-### Channels
-
-<br>
 
 
-[![portfolio](https://img.shields.io/badge/JiHeon's_Notion-000000?style=flat-square&logo=Notion)](https://jiheon788.notion.site)
-[![velog](https://img.shields.io/badge/JiHeon's_Blog-20C997?style=flat-square&logo=Velog&logoColor=white)](https://velog.io/@jiheon788)
-[![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
