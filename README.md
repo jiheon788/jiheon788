@@ -11,7 +11,7 @@
 [![velog](https://img.shields.io/badge/JiHeon's_Blog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@jiheon788)
 [![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
 
-<img src="https://user-images.githubusercontent.com/90181028/229346733-5f0f71f2-b897-4797-8f2a-8d9a33982f94.png" width="25%" align='right' /> 
+<img src="https://user-images.githubusercontent.com/90181028/229346733-5f0f71f2-b897-4797-8f2a-8d9a33982f94.png" width="35%" align='right' /> 
 
 - 👋 Hello! I'm Ji-Heon Park
 
