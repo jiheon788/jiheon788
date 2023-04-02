@@ -1,4 +1,12 @@
+<div align="center">
+<img src="https://user-images.githubusercontent.com/90181028/229345526-ffd678ca-d803-4ea2-899d-bbcd370ba8dd.png" width="180px">
+</div>
+
+<br/>
+
 ## Welcome to jiheon788's Github
+
+
 
 
 [![portfolio](https://img.shields.io/badge/JiHeon's_Notion-5C9EFF?style=flat&logo=Notion)](https://jiheon788.notion.site)
@@ -81,6 +89,5 @@
 <br><br><br><br><br><br><br><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=jiheon788&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
