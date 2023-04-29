@@ -14,7 +14,7 @@
 
 - 👨‍🎨 Interested in GOOD UI/UX design
 
-- 🌱 Currently studying TypeScript and React Query
+- 🌱 Currently studying TypeScript and NextJS
 
 - 📚 Books I'm reading : "Typescript programming"
 
@@ -36,11 +36,11 @@
 
 <div>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-0088CC?style=flat-square&logo=Recoil&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 </div>
 <br>
