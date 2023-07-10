@@ -1,6 +1,6 @@
 ## Welcome to jiheon788's Github
 
-[![portfolio](https://img.shields.io/badge/JiHeon's_Notion-5C9EFF?style=flat&logo=Notion)](https://jiheon788.notion.site)
+[![Resume](https://img.shields.io/badge/JiHeon's_Notion-5C9EFF?style=flat&logo=Notion)]([https://jiheon788.notion.site](https://jiheon788.notion.site/jiheon788/Frontend-Developer-59fa56d52d5746008698b3cd6c9324d1))
 [![velog](https://img.shields.io/badge/JiHeon's_Blog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@jiheon788)
 [![mail](https://img.shields.io/badge/jiheon788@ajou.ac.kr-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jiheon788@ajou.ac.kr)
 
