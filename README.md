@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as a Front-end Engineer in [Imagoworks Inc.](https://dentbird.com/), Korea
 
-- 🎓 Double majored in e-Business & Applied Artificial Intelligence at Ajou Univ.
+- 🎓 Double majored in e-Business & Applied Artificial Intelligence at Ajou Univ
 
 - ✨ Prioritizes writing clean, understandable and maintainable code
 
@@ -16,7 +16,10 @@
 
 - 🌱 Currently studying Docker and Web 3.0
 
-- 📚 Books I'm reading : "Typescript programming"
+- 📚 My hobbies are watching animation and reading books
+
+- 🤔 I also like drawing pictures. You can see my painting [here](https://jiheon788.notion.site/jiheon788/Enjoy-My-Drawings-da7393f4b86549edaa07020dcfc3d266).
+
 
 ---
 
