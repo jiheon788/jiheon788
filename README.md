@@ -6,7 +6,7 @@
 
 - 👋 Hello! I'm Ji-Heon Park
 
-- 👨‍💻 A Front-end Developer
+- 🔭 I’m currently working as a Front-end Engineer in [Imagoworks Inc.](https://dentbird.com/), Korea
 
 - 🎓 Double majored in e-Business & Applied Artificial Intelligence at Ajou Univ.
 
