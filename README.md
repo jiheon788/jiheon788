@@ -14,7 +14,7 @@
 
 - 👨‍🎨 Interested in GOOD UI/UX design
 
-- 🌱 Currently studying TypeScript and NextJS
+- 🌱 Currently studying Docker and Web 3.0
 
 - 📚 Books I'm reading : "Typescript programming"
 
