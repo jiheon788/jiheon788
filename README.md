@@ -6,7 +6,7 @@
 
 - 👋 Hello! I'm Ji-Heon Park
 
-- 🔭 I’m currently working as a Front-end Engineer in [Imagoworks Inc.](https://dentbird.com/), Korea
+- 🔭 Currently working as a Front-end Engineer in [Imagoworks Inc.](https://dentbird.com/), Korea
 
 - 🎓 Double majored in e-Business & Applied Artificial Intelligence at Ajou Univ
 
@@ -16,9 +16,9 @@
 
 - 🌱 Currently studying Docker and Web 3.0
 
-- 📚 My hobbies are watching animation and reading books
+- 📚 Enjoys watching animation and reading books
 
-- 🤔 I also like drawing pictures. You can see my painting [here](https://jiheon788.notion.site/jiheon788/Enjoy-My-Drawings-da7393f4b86549edaa07020dcfc3d266).
+- 🤔 Likes drawing; see the artwork [here](https://jiheon788.notion.site/jiheon788/Enjoy-My-Drawings-da7393f4b86549edaa07020dcfc3d266)
 
 
 ---
