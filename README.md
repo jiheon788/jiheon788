@@ -52,13 +52,11 @@
 <br>
 
 <div>
+<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=Chakra UI&logoColor=white"/>
 <img src="https://img.shields.io/badge/sass-CC6699?style=flat-square&logo=sass&logoColor=white"/>
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 <img src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=Storybook&logoColor=white"/>
-<img src="https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=MUI&logoColor=white"/>
-<img src="https://img.shields.io/badge/Chakra UI-319795?style=flat-square&logo=Chakra UI&logoColor=white"/>
-
-
 </div>
 <br>
 
