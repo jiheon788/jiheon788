@@ -8,7 +8,7 @@
 
 - 👋 Hello! I'm Ji-Heon Park
 
-- 🔭 Currently working as a Front-end Engineer in [Imagoworks Inc.](https://dentbird.com/), Korea
+- 🔭 Currently working as a Front-end Engineer (Researcher) in [TmaxRG, TmaxA&C](https://www.tmax.co.kr/), Korea
 
 - 🎓 Double majored in e-Business & Applied Artificial Intelligence at Ajou Univ
 
