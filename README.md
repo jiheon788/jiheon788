@@ -1,7 +1,7 @@
 ## Welcome to jiheon788's Github
 
 [![mail](https://img.shields.io/badge/harrypark.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harrypark.dev@gmail.com)
-[![Resume](https://img.shields.io/badge/JiHeon's_Resume-5C9EFF?style=flat&logo=Notion)](https://jiheon788.notion.site)
+[![Resume](https://img.shields.io/badge/JiHeon's_Resume-000000?style=flat&logo=Notion)](https://jiheon788.notion.site)
 [![velog](https://img.shields.io/badge/JiHeon's_Blog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@jiheon788)
 [![linked-in](https://img.shields.io/badge/JiHeon's_LinkedIn-0A66C2?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/jiheon-park/)
 
