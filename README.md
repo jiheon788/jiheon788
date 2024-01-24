@@ -46,6 +46,7 @@
 <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
 <img src="https://img.shields.io/badge/Recoil-0088CC?style=flat-square&logo=Recoil&logoColor=white"/>
+<img src="https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=MobX&logoColor=white"/>
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Testing Library-E33332?style=flat-square&logo=Testing Library&logoColor=white"/>
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=Web3.js&logoColor=white"/>
