@@ -16,7 +16,7 @@
 
 - 👨‍🎨 Interested in GOOD UI/UX design
 
-- 🌱 Currently studying Docker and Web 3.0
+- 🌱 Currently studying Docker and GraphQL
 
 - 📚 Enjoys watching animation and reading books
 
