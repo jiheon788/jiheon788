@@ -19,9 +19,6 @@
 
 - 📚 Enjoys watching animation and reading books
 
-- 🤔 Likes drawing; see the artwork [here](https://jiheon788.notion.site/jiheon788/Enjoy-My-Drawings-da7393f4b86549edaa07020dcfc3d266)
-
-
 ---
 
 ### Skills
