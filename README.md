@@ -1,4 +1,4 @@
-## Welcome to jiheon788's Github
+## Welcome to jiheon's Github
 
 
 [![mail](https://img.shields.io/badge/harrypark.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harrypark.dev@gmail.com)
