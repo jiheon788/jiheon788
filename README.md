@@ -1,13 +1,16 @@
 ## Welcome to jiheon788's Github
 
+
 [![mail](https://img.shields.io/badge/harrypark.dev@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:harrypark.dev@gmail.com)
 [![velog](https://img.shields.io/badge/JiHeon's_Blog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@jiheon788)
 [![linked-in](https://img.shields.io/badge/JiHeon's_LinkedIn-0A66C2?style=flat&logo=LinkedIn)](https://www.linkedin.com/in/jiheon-park/)
 
+<img align="right" src="https://github.com/user-attachments/assets/a4d94638-a9c1-4cea-87cc-656d74ed4aac" width="28%">
+
 
 - 👋 Hello! I'm Ji-Heon Park
 
-- 🔭 Currently working as a Front-end Engineer (Researcher) in [TmaxRG, TmaxA&C](https://www.tmax.co.kr/), Korea
+- 🔭 Currently working as a Front-end Engineer
 
 - 🎓 Double majored in e-Business & Applied Artificial Intelligence at Ajou Univ
 
@@ -15,9 +18,10 @@
 
 - 👨‍🎨 Interested in GOOD UI/UX design
 
-- 🌱 Currently studying Docker and GraphQL
+- 🌱 Currently studying Functional Programming
 
 - 📚 Enjoys watching animation and reading books
+
 
 ---
 
